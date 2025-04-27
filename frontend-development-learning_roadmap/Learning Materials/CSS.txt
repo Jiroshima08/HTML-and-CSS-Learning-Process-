@@ -1,0 +1,34 @@
+CSS 
+- Cascading Style Sheets
+- used to change the appearance of HTML elements
+
+CSS SELECTOR 
+- targets elements selected
+
+CSS PROPERTY 
+- tells us what we are changing
+
+CSS VALUE 
+- what we are changing the property to
+
+INTERNAL CSS (CSS within the HTML file)
+<style> </style>
+
+PX 
+- represents PIXELS
+
+RGB in color
+- numbers represents how much of each color do you want
+- r = red
+- g = green
+- b = blue
+
+- if we start with a . before the selector, we're gonna
+target the class name.
+
+GENERAL TECHNIQUE
+
+1. Create element with HTML.
+2. Style with CSS one-by-one.
+
+- in CSS, space is called MARGIN
